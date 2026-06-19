@@ -25,3 +25,6 @@ summary.
 Bench is a Fire TV Stick 4K Max (firmware 7.6.x), Apple TV 4K (3rd gen,
 tvOS 18), Samsung Tizen 7.0 TV, and a controllable router. Test scripts live
 in this org's repos.
+
+---
+*Last verified: June 19, 2026*
