@@ -27,4 +27,4 @@ tvOS 18), Samsung Tizen 7.0 TV, and a controllable router. Test scripts live
 in this org's repos.
 
 ---
-*Last verified: June 19, 2026*
+*Last verified: June 22, 2026*
